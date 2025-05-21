@@ -2,11 +2,11 @@
 
 **Data Analyst | Business, Finance & Capital Markets Enthusiast | Lifelong Learner**
 
-Welcome to my GitHub! I’m a curious and creative thinker with a background in finance and business analysis, and a growing passion for data analytics. I love asking “why,” finding the answers in data, and turning them into visual stories that spark action.
+Welcome to my GitHub! I’m a creative thinker with an interest in finance and business analysis, and a growing passion for data analytics. I love asking “why,” finding the answers in data, and turning them into visual stories that spark action.
 
 ---
 
-## 🧑‍💻 A Bit About Me
+## 🧑‍💻 My Bio
 
 - 🎓 Bachelor’s Degree (Agricultural and Environmental Engineer)
 - 📊 Currently working on data analytics projects
@@ -16,7 +16,7 @@ Welcome to my GitHub! I’m a curious and creative thinker with a background in 
 
 ---
 
-## 🛠️ Tools & Tech I Work With
+## 🛠️ Tools Used
 
 - **Visualization:** Power BI, Excel  
 - **Data Analysis:** Python, SQL  
