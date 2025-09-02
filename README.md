@@ -11,7 +11,6 @@ Welcome to my GitHub! I’m a creative thinker with an interest in finance and b
 - 🎓 Bachelor’s Degree (Agricultural and Environmental Engineer)
 - 📊 Currently working on data analytics projects
 - 💼 Interested in finance, capital markets, and business analysis
-- ⚽ Passion for football (sports analytics)
 - 🧠 Strong analytical skills, attention to detail, and a passion for data storytelling
 
 ---
